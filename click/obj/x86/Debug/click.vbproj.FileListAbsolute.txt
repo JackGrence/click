@@ -1,0 +1,18 @@
+C:\Users\green\AppData\Local\Temporary Projects\click\bin\Debug\click.exe
+C:\Users\green\AppData\Local\Temporary Projects\click\bin\Debug\click.pdb
+C:\Users\green\AppData\Local\Temporary Projects\click\bin\Debug\click.xml
+C:\Users\green\AppData\Local\Temporary Projects\click\obj\x86\Debug\click.Form1.resources
+C:\Users\green\AppData\Local\Temporary Projects\click\obj\x86\Debug\click.Resources.resources
+C:\Users\green\AppData\Local\Temporary Projects\click\obj\x86\Debug\click.vbproj.GenerateResource.Cache
+C:\Users\green\AppData\Local\Temporary Projects\click\obj\x86\Debug\click.exe
+C:\Users\green\AppData\Local\Temporary Projects\click\obj\x86\Debug\click.xml
+C:\Users\green\AppData\Local\Temporary Projects\click\obj\x86\Debug\click.pdb
+C:\Users\green\Desktop\VB\click\click\obj\x86\Debug\click.exe
+C:\Users\green\Desktop\VB\click\click\obj\x86\Debug\click.xml
+C:\Users\green\Desktop\VB\click\click\obj\x86\Debug\click.pdb
+C:\Users\green\Desktop\VB\click\click\bin\Debug\click.exe
+C:\Users\green\Desktop\VB\click\click\bin\Debug\click.pdb
+C:\Users\green\Desktop\VB\click\click\bin\Debug\click.xml
+C:\Users\green\Desktop\VB\click\click\obj\x86\Debug\click.Form1.resources
+C:\Users\green\Desktop\VB\click\click\obj\x86\Debug\click.Resources.resources
+C:\Users\green\Desktop\VB\click\click\obj\x86\Debug\click.vbproj.GenerateResource.Cache
